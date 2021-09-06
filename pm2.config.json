@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "EduBossFed",
+      "script": "node",
+      "args": "test-serve/app.js"
+    }
+  ]
+}
